@@ -1,0 +1,42 @@
+Introduction to Binary Search Trees (BST) (10 minutes)
+
+Briefly explain what a BST is and its characteristics:
+A binary tree where each node has at most two children.
+Nodes on the left are smaller, nodes on the right are greater.
+Efficient for searching, insertion, and deletion operations.
+Node Class (5 minutes)
+
+Introduce the TreeNode class:
+Describe the attributes: data, leftChild, and rightChild.
+Explain how a node represents an element in the tree.
+Insertion Operation (15 minutes)
+
+Discuss how to insert nodes into a BST:
+Define the Insert function.
+Explain the logic of inserting a new node based on the BST properties.
+Provide code examples and walkthroughs for inserting nodes.
+In-order Traversal (10 minutes)
+
+Explain the concept of in-order traversal:
+Visit nodes in ascending order.
+Left, Root, Right order.
+Define the in_order_traversal function.
+Provide code examples and demonstrate how in-order traversal works.
+Search Operation (10 minutes)
+
+Describe how to search for a key in a BST:
+Define the Search function.
+Explain the recursive search process.
+Provide code examples and demonstrate searching for keys.
+Implementing a BST Class (10 minutes)
+
+Introduce the BinarySearchTree class:
+Define the class structure.
+Explain the role of the class methods.
+Discuss encapsulation and abstraction.
+Using the BST Class (10 minutes)
+
+Demonstrate how to create an instance of the BinarySearchTree class.
+Show how to insert elements into the tree.
+Perform an in-order traversal and display the elements.
+Search for a key in the tree.
